@@ -1,0 +1,6 @@
+query LandigPage {
+  landigPage {
+    Header
+    SubHeading
+  }
+}
